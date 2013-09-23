@@ -8,8 +8,8 @@ Authors@R: c(person("Quentin", "Geissmann", role = c("aut", "cre"),email =
     "qgeissmann@gmail.com"))
 Author: Quentin Geissmann
 Maintainer: Quentin Geissmann <qgeissmann@gmail.com>
-Description: This packages makes the use of R even more straightforward by
-    providing utility functionsand aliases for usual tasks and commands.
+Description: This packages renders the use of R even more straightforward by
+    providing utility functions and aliases for usual tasks and commands.
 License: GPL (>=3.0)
 Depends:
     R (>= 2.15.0)
