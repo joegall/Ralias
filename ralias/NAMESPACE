@@ -1,0 +1,7 @@
+export(a)
+export(ipkg)
+export(last)
+export(p)
+export(pwd)
+export(rmall)
+export(z)
